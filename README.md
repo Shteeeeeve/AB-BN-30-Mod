@@ -7,6 +7,8 @@ Added Voron logo to match style of the Mini Afterburner for the V0.1. The AB-BN-
 
 If printing on a V0.1, rotate 45 degrees and adjust your infill angle accordingly. 
 
+I have not yet printed and tested the logo insert. It's a 0.1mm tolerance.
+
 
 ## Printed Parts:
 1. ab-bn-30-v01
